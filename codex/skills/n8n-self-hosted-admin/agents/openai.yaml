@@ -1,0 +1,4 @@
+interface:
+  display_name: "n8n Self-Hosted Admin"
+  short_description: "Operate, audit, and support self-hosted n8n"
+  default_prompt: "Use $n8n-self-hosted-admin to inspect the n8n instance, summarize risk, and make safe API-backed workflow changes."
